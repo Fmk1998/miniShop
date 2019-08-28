@@ -1,0 +1,43 @@
+div#head
+{
+    margin: 0 0 0 0;
+    height: 80px;
+    background-color: #999999;
+}
+div#head h2
+{
+    font-size: 30px;
+    width: 400px;
+    text-align: center;
+    background-color: rgb(255, 135, 0);
+    height: 80px;
+    line-height: 75px;
+    color: white;
+    margin-top: 0;
+    display: inline-block;
+    margin-bottom: 0;
+}
+div#head a#one
+{
+    margin-left: 100px;
+}
+
+div#head a
+{
+    font-size: 20px;
+    display:inline-block;
+    height: 80px;
+    width: 160px;
+    line-height: 80px;
+    padding: 0 0 0 0;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+
+}
+div#head a:hover
+{
+    background-color: white;
+    color: black;
+
+}
