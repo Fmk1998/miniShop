@@ -1,18 +1,9 @@
-<<<<<<< HEAD
-﻿# miniShop
-=======
 # miniShop
->>>>>>> dcb1a62ad2696d17d05d5069524a29fd52b04ccf
 一款php+MySQl开发的小型商品发布购物车系统
 ## 具体实施
 ### （一）登录
 登录有五个input标签，分别为“账号”、“密码”、“记住密码”、“登录”、“注册”。
-<<<<<<< HEAD
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190828143632609.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ZtazEwMjM=,size_16,color_FFFFFF,t_70)
-=======
-
->>>>>>> 948cc16dc2a92a549ca82dbcf48084574a3c3da4
->>>>>>> dcb1a62ad2696d17d05d5069524a29fd52b04ccf
 ### （二）浏览商品
 浏览商品有两个模块，分别为“商品信息浏览”、“我的购物车”。
 “商品信息浏览”分为“修改”、“删除”、“加入购物车”三个选项。
