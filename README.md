@@ -1,14 +1,6 @@
-<<<<<<< HEAD
-﻿# miniShop
-一款php+MySQl开发的小型商品发布购物车系统
-## 具体实施
-### （一）登录
-登录有五个input标签，分别为“账号”、“密码”、“记住密码”、“登录”、“注册”。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190828143632609.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ZtazEwMjM=,size_16,color_FFFFFF,t_70)
-=======
 # miniShop
 一款php+MySQl开发的小型商品发布购物车系统
-## 三、具体实施
+## 具体实施
 ### （一）登录
 登录有五个input标签，分别为“账号”、“密码”、“记住密码”、“登录”、“注册”。
 
